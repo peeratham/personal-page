@@ -57,10 +57,10 @@ p{
 }
 a{
 	text-decoration:none;
-	color:#0b8bbb;
+	color:#888;
 }
 a:hover{
-	color:#eee;
+	color:#0b8bbb;
 }
 .line{
 	clear:both;
@@ -114,7 +114,7 @@ a:hover{
 }
 #header #header-photo img{
 	width:200px;
-	height:220px;
+	height:200px;
 	border:1px #ddd solid;
 }
 /* ------------- */
