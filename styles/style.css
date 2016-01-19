@@ -57,7 +57,7 @@ p{
 }
 a{
 	text-decoration:none;
-	color:#888;
+	color:#0b8bbb;
 }
 a:hover{
 	color:#0b8bbb;
@@ -83,7 +83,7 @@ a:hover{
 	color:#444;
 }
 #header #header-content h2{
-	color:#0b8bbb;
+	color:#228B22;
 	font-size:28px;
 }
 #header #header-content p{
@@ -131,11 +131,11 @@ a:hover{
 }
 #content .cv-section h4.title{
 	font-size:22px;
-	color:#0b8bbb;
+	color:#228B22;
 	margin:0 0 -26px 0;
 }
 #content .cv-section h4.meta{
-	font-size:22px;
+	font-size:18px;
 	color:#777;
 }
 #content .cv-section p{
@@ -146,3 +146,37 @@ a:hover{
 #content .cv-section-item{
 	padding:0 0 15px 0;
 }
+
+#accordion-classes {
+    width: 600px;
+}
+
+#accordion-classes .ui-accordion-content {
+    width: 100%;
+    color: #777;
+    font-size: 10pt;
+    line-height: 16pt;
+}
+
+#accordion-classes .ui-accordion-content > * {
+    margin: 0;
+    padding: 3px;
+}
+
+#accordion-classes .ui-accordion-header {
+    margin: 20px 0 15px 0;
+}
+
+#accordion-classes .ui-accordion-content a {
+    color: #777;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+ul li{
+	margin-left:20px;
+	margin-top: 5px;
+}
+
